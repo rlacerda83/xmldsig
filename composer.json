@@ -1,5 +1,5 @@
 {
-    "name": "selective/xmldsig",
+    "name": "rlacerda83/xmldsig",
     "description": "Sign XML Documents with Digital Signatures",
     "license": "MIT",
     "type": "library",
